@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PROVIDASUB/static/css/main.2d6fd6cf.chunk.css",
+    "main.js": "/PROVIDASUB/static/js/main.c2784899.chunk.js",
+    "main.js.map": "/PROVIDASUB/static/js/main.c2784899.chunk.js.map",
+    "runtime-main.js": "/PROVIDASUB/static/js/runtime-main.0944f499.js",
+    "runtime-main.js.map": "/PROVIDASUB/static/js/runtime-main.0944f499.js.map",
+    "static/js/2.cfe0e6af.chunk.js": "/PROVIDASUB/static/js/2.cfe0e6af.chunk.js",
+    "static/js/2.cfe0e6af.chunk.js.map": "/PROVIDASUB/static/js/2.cfe0e6af.chunk.js.map",
+    "index.html": "/PROVIDASUB/index.html",
+    "static/css/main.2d6fd6cf.chunk.css.map": "/PROVIDASUB/static/css/main.2d6fd6cf.chunk.css.map",
+    "static/js/2.cfe0e6af.chunk.js.LICENSE.txt": "/PROVIDASUB/static/js/2.cfe0e6af.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.669ffbe1.svg": "/PROVIDASUB/static/media/arrow-right.669ffbe1.svg",
+    "static/media/bar-chart-line-fill.5a41b6ec.svg": "/PROVIDASUB/static/media/bar-chart-line-fill.5a41b6ec.svg",
+    "static/media/delete.9137dae7.svg": "/PROVIDASUB/static/media/delete.9137dae7.svg",
+    "static/media/exclamation.7efd0ac0.svg": "/PROVIDASUB/static/media/exclamation.7efd0ac0.svg",
+    "static/media/lock.6f1d76c8.svg": "/PROVIDASUB/static/media/lock.6f1d76c8.svg",
+    "static/media/menu-icon.9dbc5a3a.svg": "/PROVIDASUB/static/media/menu-icon.9dbc5a3a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0944f499.js",
+    "static/js/2.cfe0e6af.chunk.js",
+    "static/css/main.2d6fd6cf.chunk.css",
+    "static/js/main.c2784899.chunk.js"
+  ]
+}
